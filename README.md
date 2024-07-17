@@ -1,4 +1,4 @@
-**CodeSoft Internship**
+# CodeSoft Web Devlopment Internship
 
 I had the incredible opportunity to intern at CodeSoft, focusing on web development.
 During my internship, I successfully completed several projects, including a calculator, a landing page, and a personal portfolio.
